@@ -1,0 +1,6324 @@
+fileFormatVersion: 2
+guid: feec31880b50d0840a5e9263b0eb2a44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7714753478189070829
+    second: 52570 - copia_0
+  - first:
+      213: 6800946895116002920
+    second: 52570 - copia_1
+  - first:
+      213: 2401611986724055348
+    second: 52570 - copia_2
+  - first:
+      213: 8383104473642259126
+    second: 52570 - copia_3
+  - first:
+      213: -9097465585624591308
+    second: 52570 - copia_4
+  - first:
+      213: 1941641934345002054
+    second: 52570 - copia_5
+  - first:
+      213: -2972092285715144340
+    second: 52570 - copia_6
+  - first:
+      213: 4361586994836519613
+    second: 52570 - copia_7
+  - first:
+      213: -7551558988006226682
+    second: 52570 - copia_8
+  - first:
+      213: 7307124007911146934
+    second: 52570 - copia_9
+  - first:
+      213: -7600789731610560042
+    second: 52570 - copia_10
+  - first:
+      213: -3335191347491135544
+    second: 52570 - copia_11
+  - first:
+      213: -5767693761267662036
+    second: 52570 - copia_12
+  - first:
+      213: -725609090467428444
+    second: 52570 - copia_13
+  - first:
+      213: -2351131460626234766
+    second: 52570 - copia_14
+  - first:
+      213: -9207235903766022557
+    second: 52570 - copia_15
+  - first:
+      213: 5231060689949674133
+    second: 52570 - copia_16
+  - first:
+      213: -41667287530400426
+    second: 52570 - copia_17
+  - first:
+      213: -6249394869371793341
+    second: 52570 - copia_18
+  - first:
+      213: -1897069432619142500
+    second: 52570 - copia_19
+  - first:
+      213: -5458834880594462493
+    second: 52570 - copia_20
+  - first:
+      213: 7141376985707877838
+    second: 52570 - copia_21
+  - first:
+      213: 1996373700274928547
+    second: 52570 - copia_22
+  - first:
+      213: -1426937576770625429
+    second: 52570 - copia_23
+  - first:
+      213: 418450228399325157
+    second: 52570 - copia_24
+  - first:
+      213: -5406624594031793318
+    second: 52570 - copia_25
+  - first:
+      213: -6042548345285776315
+    second: 52570 - copia_26
+  - first:
+      213: 128764726266069098
+    second: 52570 - copia_27
+  - first:
+      213: -8807982233945784984
+    second: 52570 - copia_28
+  - first:
+      213: -536513022020455577
+    second: 52570 - copia_29
+  - first:
+      213: -4929018204409716397
+    second: 52570 - copia_30
+  - first:
+      213: 4657053321622032827
+    second: 52570 - copia_31
+  - first:
+      213: -6790594924555892545
+    second: 52570 - copia_32
+  - first:
+      213: -337473774611797958
+    second: 52570 - copia_33
+  - first:
+      213: 2460396558798828066
+    second: 52570 - copia_34
+  - first:
+      213: -4949614619904432603
+    second: 52570 - copia_35
+  - first:
+      213: -2061300270853611038
+    second: 52570 - copia_36
+  - first:
+      213: -6829712611420355947
+    second: 52570 - copia_37
+  - first:
+      213: -6572871860082082183
+    second: 52570 - copia_38
+  - first:
+      213: -3127216565590133837
+    second: 52570 - copia_39
+  - first:
+      213: 2447537912142051788
+    second: 52570 - copia_40
+  - first:
+      213: 3452419663640945643
+    second: 52570 - copia_41
+  - first:
+      213: -5459391599927866494
+    second: 52570 - copia_42
+  - first:
+      213: -2836241621078456593
+    second: 52570 - copia_43
+  - first:
+      213: -2825390172983728216
+    second: 52570 - copia_44
+  - first:
+      213: 6580351350225923462
+    second: 52570 - copia_45
+  - first:
+      213: -8507082388861675806
+    second: 52570 - copia_46
+  - first:
+      213: 3923480506855180342
+    second: 52570 - copia_47
+  - first:
+      213: 3913867660551892638
+    second: 52570 - copia_48
+  - first:
+      213: -2352077355963302985
+    second: 52570 - copia_49
+  - first:
+      213: 6492199936106618193
+    second: 52570 - copia_50
+  - first:
+      213: -1592257173993992208
+    second: 52570 - copia_51
+  - first:
+      213: -3534068122882882260
+    second: 52570 - copia_52
+  - first:
+      213: 1122186961686291176
+    second: 52570 - copia_53
+  - first:
+      213: -5424248182671014890
+    second: 52570 - copia_54
+  - first:
+      213: -3890101455430739799
+    second: 52570 - copia_55
+  - first:
+      213: 2759561802448980164
+    second: 52570 - copia_56
+  - first:
+      213: -4258756901308340683
+    second: 52570 - copia_57
+  - first:
+      213: -6663454680993742977
+    second: 52570 - copia_58
+  - first:
+      213: 7439830264197993134
+    second: 52570 - copia_59
+  - first:
+      213: 6744717147273607884
+    second: 52570 - copia_60
+  - first:
+      213: -1740191802964248475
+    second: 52570 - copia_61
+  - first:
+      213: -5126104436509043832
+    second: 52570 - copia_62
+  - first:
+      213: 3398341078116659711
+    second: 52570 - copia_63
+  - first:
+      213: -9108047902209156072
+    second: 52570 - copia_64
+  - first:
+      213: -2988742272061253036
+    second: 52570 - copia_65
+  - first:
+      213: -8588015111096443660
+    second: 52570 - copia_66
+  - first:
+      213: -9011310884947917199
+    second: 52570 - copia_67
+  - first:
+      213: -3343672584234752242
+    second: 52570 - copia_68
+  - first:
+      213: -4772414553953570450
+    second: 52570 - copia_69
+  - first:
+      213: -1982615661816139396
+    second: 52570 - copia_70
+  - first:
+      213: -5289589095948517535
+    second: 52570 - copia_71
+  - first:
+      213: 268243795087158946
+    second: 52570 - copia_72
+  - first:
+      213: 8865656586072480073
+    second: 52570 - copia_73
+  - first:
+      213: 8194029270354641573
+    second: 52570 - copia_74
+  - first:
+      213: 7160067666580773387
+    second: 52570 - copia_75
+  - first:
+      213: -4953148146485278919
+    second: 52570 - copia_76
+  - first:
+      213: -4134918895154316197
+    second: 52570 - copia_77
+  - first:
+      213: -4934703769144009879
+    second: 52570 - copia_78
+  - first:
+      213: -189438346808552796
+    second: 52570 - copia_79
+  - first:
+      213: 8431836608186259639
+    second: 52570 - copia_80
+  - first:
+      213: -3982611469944874858
+    second: 52570 - copia_81
+  - first:
+      213: -6305071703331684494
+    second: 52570 - copia_82
+  - first:
+      213: 6473268881911444820
+    second: 52570 - copia_83
+  - first:
+      213: 4843363585444269700
+    second: 52570 - copia_84
+  - first:
+      213: 6395782832378280055
+    second: 52570 - copia_85
+  - first:
+      213: -1438935804496039732
+    second: 52570 - copia_86
+  - first:
+      213: -1248209050383727890
+    second: 52570 - copia_87
+  - first:
+      213: -7435274868268676388
+    second: 52570 - copia_88
+  - first:
+      213: 6594370714821282319
+    second: 52570 - copia_89
+  - first:
+      213: 1749262211381896476
+    second: 52570 - copia_90
+  - first:
+      213: 6078217507911075694
+    second: 52570 - copia_91
+  - first:
+      213: 1492548289340159936
+    second: 52570 - copia_92
+  - first:
+      213: 7320942163771243896
+    second: 52570 - copia_93
+  - first:
+      213: -6119144321938404203
+    second: 52570 - copia_94
+  - first:
+      213: -4876615571549092552
+    second: 52570 - copia_95
+  - first:
+      213: -3012942971483481611
+    second: 52570 - copia_96
+  - first:
+      213: -1693658758835244559
+    second: 52570 - copia_97
+  - first:
+      213: 8213439408811478903
+    second: 52570 - copia_98
+  - first:
+      213: -1322665887213623026
+    second: 52570 - copia_99
+  - first:
+      213: 3945117862869605417
+    second: 52570 - copia_100
+  - first:
+      213: -9153124213109806551
+    second: 52570 - copia_101
+  - first:
+      213: 1810353511017882804
+    second: 52570 - copia_102
+  - first:
+      213: 605344872539670393
+    second: 52570 - copia_103
+  - first:
+      213: 4543456937635537340
+    second: 52570 - copia_104
+  - first:
+      213: -2427200401611589691
+    second: 52570 - copia_105
+  - first:
+      213: 4000726302253348341
+    second: 52570 - copia_106
+  - first:
+      213: 3155990979910059588
+    second: 52570 - copia_107
+  - first:
+      213: -1733289204218388942
+    second: 52570 - copia_108
+  - first:
+      213: 3857420418062842896
+    second: 52570 - copia_109
+  - first:
+      213: 4311816853516129520
+    second: 52570 - copia_110
+  - first:
+      213: -7411630175097378883
+    second: 52570 - copia_111
+  - first:
+      213: 1769764013384543940
+    second: 52570 - copia_112
+  - first:
+      213: -5482960053362632864
+    second: 52570 - copia_113
+  - first:
+      213: 2270697452112296848
+    second: 52570 - copia_114
+  - first:
+      213: -4941357792048080860
+    second: 52570 - copia_115
+  - first:
+      213: 4908774353802617522
+    second: 52570 - copia_116
+  - first:
+      213: -6650396868994672179
+    second: 52570 - copia_117
+  - first:
+      213: -8925099602640750474
+    second: 52570 - copia_118
+  - first:
+      213: 2324781762278507571
+    second: 52570 - copia_119
+  - first:
+      213: 3366879811185139270
+    second: 52570 - copia_120
+  - first:
+      213: 4380251295422250037
+    second: 52570 - copia_121
+  - first:
+      213: -3376665354731012280
+    second: 52570 - copia_122
+  - first:
+      213: 7907599485214929473
+    second: 52570 - copia_123
+  - first:
+      213: -2614845678365125273
+    second: 52570 - copia_124
+  - first:
+      213: 8488413351786280195
+    second: 52570 - copia_125
+  - first:
+      213: -8216868436496251636
+    second: 52570 - copia_126
+  - first:
+      213: -5728959750409634207
+    second: 52570 - copia_127
+  - first:
+      213: -447628119829803570
+    second: 52570 - copia_128
+  - first:
+      213: -4013359760800104268
+    second: 52570 - copia_129
+  - first:
+      213: -1871091523396426530
+    second: 52570 - copia_130
+  - first:
+      213: -2142144487141912020
+    second: 52570 - copia_131
+  - first:
+      213: -4920011131157998713
+    second: 52570 - copia_132
+  - first:
+      213: -3191220907407053501
+    second: 52570 - copia_133
+  - first:
+      213: 687158557528007760
+    second: 52570 - copia_134
+  - first:
+      213: 6211134555211264843
+    second: 52570 - copia_135
+  - first:
+      213: -3626764509176527534
+    second: 52570 - copia_136
+  - first:
+      213: 3059602111284566415
+    second: 52570 - copia_137
+  - first:
+      213: -8658456223912282162
+    second: 52570 - copia_138
+  - first:
+      213: 3082918555851754594
+    second: 52570 - copia_139
+  - first:
+      213: -6547273277956998977
+    second: 52570 - copia_140
+  - first:
+      213: 2137511918386919085
+    second: 52570 - copia_141
+  - first:
+      213: -6671158712798668652
+    second: 52570 - copia_142
+  - first:
+      213: -7158229681091595807
+    second: 52570 - copia_143
+  - first:
+      213: 2293553506393800942
+    second: 52570 - copia_144
+  - first:
+      213: 8586105528033508126
+    second: 52570 - copia_145
+  - first:
+      213: -300971923238539101
+    second: 52570 - copia_146
+  - first:
+      213: 1151432843661204740
+    second: 52570 - copia_147
+  - first:
+      213: 5058918093097749392
+    second: 52570 - copia_148
+  - first:
+      213: -8792831866538315196
+    second: 52570 - copia_149
+  - first:
+      213: -7366069057053070248
+    second: 52570 - copia_150
+  - first:
+      213: -702022912575314799
+    second: 52570 - copia_151
+  - first:
+      213: 2446215463239366204
+    second: 52570 - copia_152
+  - first:
+      213: -4912783323942168651
+    second: 52570 - copia_153
+  - first:
+      213: 7147708072306297732
+    second: 52570 - copia_154
+  - first:
+      213: 7657442121717284241
+    second: 52570 - copia_155
+  - first:
+      213: -2976394229144053732
+    second: 52570 - copia_156
+  - first:
+      213: -2212249416697869459
+    second: 52570 - copia_157
+  - first:
+      213: 1593499363476469205
+    second: 52570 - copia_158
+  - first:
+      213: -8550940056478601391
+    second: 52570 - copia_159
+  - first:
+      213: 184995298830202517
+    second: 52570 - copia_160
+  - first:
+      213: 1329724623836404174
+    second: 52570 - copia_161
+  - first:
+      213: 8438619794323938121
+    second: 52570 - copia_162
+  - first:
+      213: 4513946356337976079
+    second: 52570 - copia_163
+  - first:
+      213: -5202647382588947031
+    second: 52570 - copia_164
+  - first:
+      213: -8893054927152093299
+    second: 52570 - copia_165
+  - first:
+      213: 6352311740762584083
+    second: 52570 - copia_166
+  - first:
+      213: -1309018551662379220
+    second: 52570 - copia_167
+  - first:
+      213: -2998168490948399718
+    second: 52570 - copia_168
+  - first:
+      213: -5408071263332178029
+    second: 52570 - copia_169
+  - first:
+      213: 932338903880788744
+    second: 52570 - copia_170
+  - first:
+      213: 7454219835005632212
+    second: 52570 - copia_171
+  - first:
+      213: 8471770634773264787
+    second: 52570 - copia_172
+  - first:
+      213: 8062294469126558415
+    second: 52570 - copia_173
+  - first:
+      213: -4162610856081145596
+    second: 52570 - copia_174
+  - first:
+      213: 8356596724378460524
+    second: 52570 - copia_175
+  - first:
+      213: -4150774034637153977
+    second: 52570 - copia_176
+  - first:
+      213: -7409040012919801257
+    second: 52570 - copia_177
+  - first:
+      213: 7406375264813395471
+    second: 52570 - copia_178
+  - first:
+      213: 5887058096621059506
+    second: 52570 - copia_179
+  - first:
+      213: 8587447915369920612
+    second: 52570 - copia_180
+  - first:
+      213: -4391134037921667872
+    second: 52570 - copia_181
+  - first:
+      213: -3850126473447237973
+    second: 52570 - copia_182
+  - first:
+      213: -9158385211754727085
+    second: 52570 - copia_183
+  - first:
+      213: -8224028355042483041
+    second: 52570 - copia_184
+  - first:
+      213: 2682399806104788348
+    second: 52570 - copia_185
+  - first:
+      213: -1025845990577886125
+    second: 52570 - copia_186
+  - first:
+      213: 4166701491715803386
+    second: 52570 - copia_187
+  - first:
+      213: 7968564842787671898
+    second: 52570 - copia_188
+  - first:
+      213: 813417081378565692
+    second: 52570 - copia_189
+  - first:
+      213: -2131744913757301123
+    second: 52570 - copia_190
+  - first:
+      213: -4476351399260388230
+    second: 52570 - copia_191
+  - first:
+      213: -1176996550253763664
+    second: 52570 - copia_192
+  - first:
+      213: -3505883884004628731
+    second: 52570 - copia_193
+  - first:
+      213: -1474936180109364578
+    second: 52570 - copia_194
+  - first:
+      213: -1854612593461425360
+    second: 52570 - copia_195
+  - first:
+      213: -6422148898442747408
+    second: 52570 - copia_196
+  - first:
+      213: 572863212357098227
+    second: 52570 - copia_197
+  - first:
+      213: 2887419972467645147
+    second: 52570 - copia_198
+  - first:
+      213: 5071272200985086332
+    second: 52570 - copia_199
+  - first:
+      213: -3904013240400351782
+    second: 52570 - copia_200
+  - first:
+      213: -4711661897395459573
+    second: 52570 - copia_201
+  - first:
+      213: -944368661453530569
+    second: 52570 - copia_202
+  - first:
+      213: -2382091914584671900
+    second: 52570 - copia_203
+  - first:
+      213: 9179863776698787795
+    second: 52570 - copia_204
+  - first:
+      213: 7819834576606443325
+    second: 52570 - copia_205
+  - first:
+      213: -7857325032987818278
+    second: 52570 - copia_206
+  - first:
+      213: -4741699565982572043
+    second: 52570 - copia_207
+  - first:
+      213: 5166836924207929781
+    second: 52570 - copia_208
+  - first:
+      213: 4152172497839099866
+    second: 52570 - copia_209
+  - first:
+      213: 3175361086615306395
+    second: 52570 - copia_210
+  - first:
+      213: 4576319554597089391
+    second: 52570 - copia_211
+  - first:
+      213: 356703527693417929
+    second: 52570 - copia_212
+  - first:
+      213: -601530215757537053
+    second: 52570 - copia_213
+  - first:
+      213: -268586936220778295
+    second: 52570 - copia_214
+  - first:
+      213: -1555146612850317859
+    second: 52570 - copia_215
+  - first:
+      213: -1985926649793871941
+    second: 52570 - copia_216
+  - first:
+      213: -2546356483541954489
+    second: 52570 - copia_217
+  - first:
+      213: -2826703787685499563
+    second: 52570 - copia_218
+  - first:
+      213: -482890779473767011
+    second: 52570 - copia_219
+  - first:
+      213: 1941586991778987674
+    second: 52570 - copia_220
+  - first:
+      213: 7227780289389854491
+    second: 52570 - copia_221
+  - first:
+      213: -1934401253358772363
+    second: 52570 - copia_222
+  - first:
+      213: 8543183635836840639
+    second: 52570 - copia_223
+  - first:
+      213: -9022998773403173816
+    second: 52570 - copia_224
+  - first:
+      213: -6430682553843734908
+    second: 52570 - copia_225
+  - first:
+      213: 7343963676151162950
+    second: 52570 - copia_226
+  - first:
+      213: -4335363863156706941
+    second: 52570 - copia_227
+  - first:
+      213: -8428852884850343762
+    second: 52570 - copia_228
+  - first:
+      213: 8147337599376932274
+    second: 52570 - copia_229
+  - first:
+      213: -311116287414493274
+    second: 52570 - copia_230
+  - first:
+      213: -1270461251622934541
+    second: 52570 - copia_231
+  - first:
+      213: -185829818331623
+    second: 52570 - copia_232
+  - first:
+      213: -7893795316085803635
+    second: 52570 - copia_233
+  - first:
+      213: 5406447109572338907
+    second: 52570 - copia_234
+  - first:
+      213: -1857099744977030073
+    second: 52570 - copia_235
+  - first:
+      213: -1619900572777846395
+    second: 52570 - copia_236
+  - first:
+      213: 6327812064917503514
+    second: 52570 - copia_237
+  - first:
+      213: 8175929597410149595
+    second: 52570 - copia_238
+  - first:
+      213: -8468149140229148587
+    second: 52570 - copia_239
+  - first:
+      213: 3409262721184242700
+    second: 52570 - copia_240
+  - first:
+      213: 5201711320745548902
+    second: 52570 - copia_241
+  - first:
+      213: -6069683769713661024
+    second: 52570 - copia_242
+  - first:
+      213: -2462008818706281811
+    second: 52570 - copia_243
+  - first:
+      213: -2026819367430738497
+    second: 52570 - copia_244
+  - first:
+      213: 8363941001575485382
+    second: 52570 - copia_245
+  - first:
+      213: 2758238610639170232
+    second: 52570 - copia_246
+  - first:
+      213: 5819118465438699086
+    second: 52570 - copia_247
+  - first:
+      213: 6400508649993378052
+    second: 52570 - copia_248
+  - first:
+      213: 3656221059065013302
+    second: 52570 - copia_249
+  - first:
+      213: 3450041417859416103
+    second: 52570 - copia_250
+  - first:
+      213: -6203279716542223406
+    second: 52570 - copia_251
+  - first:
+      213: -7941865396246076035
+    second: 52570 - copia_252
+  - first:
+      213: -3966629803464735299
+    second: 52570 - copia_253
+  - first:
+      213: -4461602761415037155
+    second: 52570 - copia_254
+  - first:
+      213: -6026616573859465085
+    second: 52570 - copia_255
+  - first:
+      213: 3693899618334377048
+    second: 52570 - copia_256
+  - first:
+      213: -3567721410219843573
+    second: 52570 - copia_257
+  - first:
+      213: 5532770563167300251
+    second: 52570 - copia_258
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 52570 - copia_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316c4da0690bfe490800000000000000
+      internalID: -7714753478189070829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8666fab0b21d16e50800000000000000
+      internalID: 6800946895116002920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439e10da06d345120800000000000000
+      internalID: 2401611986724055348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b25f6a6a15c65470800000000000000
+      internalID: 8383104473642259126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4345184104f4fb180800000000000000
+      internalID: -9097465585624591308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cd2a15d0912fa10800000000000000
+      internalID: 1941641934345002054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61254e10d101c6d0800000000000000
+      internalID: -2972092285715144340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbab13c5348778c30800000000000000
+      internalID: 4361586994836519613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6050b7b3c19733790800000000000000
+      internalID: -7551558988006226682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5c545029e186560800000000000000
+      internalID: 7307124007911146934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d97ae28202948690800000000000000
+      internalID: -7600789731610560042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf95dad32507b1d0800000000000000
+      internalID: -3335191347491135544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23876a251905ffa0800000000000000
+      internalID: -5767693761267662036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a705ec606e1ee5f0800000000000000
+      internalID: -725609090467428444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_14
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272c025b46a1f5fd0800000000000000
+      internalID: -2351131460626234766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366bdc04ab3593080800000000000000
+      internalID: -9207235903766022557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ac5fe6bf5789840800000000000000
+      internalID: 5231060689949674133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_17
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6551fff92d7fb6ff0800000000000000
+      internalID: -41667287530400426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_18
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34012fd1a70b549a0800000000000000
+      internalID: -6249394869371793341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_19
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92fb72f6614ca5e0800000000000000
+      internalID: -1897069432619142500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_20
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8b7a629925e34b0800000000000000
+      internalID: -5458834880594462493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_21
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5944828844b1360800000000000000
+      internalID: 7141376985707877838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_22
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abb1db9d4b84bb10800000000000000
+      internalID: 1996373700274928547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_23
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b602eeb85df723ce0800000000000000
+      internalID: -1426937576770625429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_24
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef3ce30442aec500800000000000000
+      internalID: 418450228399325157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_25
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b28d6c39fc7f4b0800000000000000
+      internalID: -5406624594031793318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_26
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ced157b4e842ca0800000000000000
+      internalID: -6042548345285776315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_27
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6080b816d679c100800000000000000
+      internalID: 128764726266069098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_28
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86db5bd23d2c3c580800000000000000
+      internalID: -8807982233945784984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_29
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7637911cf3ced88f0800000000000000
+      internalID: -536513022020455577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_30
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351a9b2ee0c989bb0800000000000000
+      internalID: -4929018204409716397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_31
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb19557625d21a040800000000000000
+      internalID: 4657053321622032827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_32
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8864ce4e5f2c1a0800000000000000
+      internalID: -6790594924555892545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_33
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38e047d36d015bf0800000000000000
+      internalID: -337473774611797958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_34
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2223ccd62a5152220800000000000000
+      internalID: 2460396558798828066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_35
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52624853abf6f4bb0800000000000000
+      internalID: -4949614619904432603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_36
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 183
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1aa5c235ac463e0800000000000000
+      internalID: -2061300270853611038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592c846b09cf731a0800000000000000
+      internalID: -6829712611420355947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_38
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e75a92ed778c4a0800000000000000
+      internalID: -6572871860082082183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_39
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b378403a15e994d0800000000000000
+      internalID: -3127216565590133837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_40
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9378373c667f120800000000000000
+      internalID: 2447537912142051788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_41
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be364e2746579ef20800000000000000
+      internalID: 3452419663640945643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_42
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b4c84d3485c34b0800000000000000
+      internalID: -5459391599927866494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_43
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6c07ec545a3a8d0800000000000000
+      internalID: -2836241621078456593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7ec637b923ac8d0800000000000000
+      internalID: -2825390172983728216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_45
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d6a7750ba125b50800000000000000
+      internalID: 6580351350225923462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_46
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e61be8c3a5c0f980800000000000000
+      internalID: -8507082388861675806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_47
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638c546cbb0037630800000000000000
+      internalID: 3923480506855180342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_48
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ea51596e9d05630800000000000000
+      internalID: 3913867660551892638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_49
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb31994b1ebb5fd0800000000000000
+      internalID: -2352077355963302985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_50
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dd27ad17de81a50800000000000000
+      internalID: 6492199936106618193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_51
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff4501598a27e9e0800000000000000
+      internalID: -1592257173993992208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25c88b34c774fec0800000000000000
+      internalID: -3534068122882882260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_53
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2e2e6981fc29f00800000000000000
+      internalID: 1122186961686291176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_54
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614065a440339b4b0800000000000000
+      internalID: -5424248182671014890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_55
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a812d04655930ac0800000000000000
+      internalID: -3890101455430739799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_56
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c845baa6deeb4620800000000000000
+      internalID: 2759561802448980164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536e5c0892bd5e4c0800000000000000
+      internalID: -4258756901308340683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_58
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f347aa547a683a0800000000000000
+      internalID: -6663454680993742977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_59
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2d8b615369f3760800000000000000
+      internalID: 7439830264197993134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_60
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccabab9a28c0a9d50800000000000000
+      internalID: 6744717147273607884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_61
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568f44f66c899d7e0800000000000000
+      internalID: -1740191802964248475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_62
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883135c9c2b6cd8b0800000000000000
+      internalID: -5126104436509043832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_63
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1f2c29435592f20800000000000000
+      internalID: 3398341078116659711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_64
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cd49f70b6b99180800000000000000
+      internalID: -9108047902209156072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_65
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a58941dbad586d0800000000000000
+      internalID: -2988742272061253036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_66
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcd869f1cd31d880800000000000000
+      internalID: -8588015111096443660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_67
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176811e7e7461f280800000000000000
+      internalID: -9011310884947917199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07a97b0083e891d0800000000000000
+      internalID: -3343672584234752242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_69
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6171be9f3af4cdb0800000000000000
+      internalID: -4772414553953570450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_70
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71b2575f855c74e0800000000000000
+      internalID: -1982615661816139396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_71
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f75302eba9796b0800000000000000
+      internalID: -5289589095948517535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_72
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae6f577f4ef8b300800000000000000
+      internalID: 268243795087158946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_73
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 153
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949d37951b3290b70800000000000000
+      internalID: 8865656586072480073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_74
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a244a2253a07b170800000000000000
+      internalID: 8194029270354641573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_75
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a9e4a6b9bad5360800000000000000
+      internalID: 7160067666580773387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_76
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9374cd0f002e24bb0800000000000000
+      internalID: -4953148146485278919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_77
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cb64f2c21dd96c0800000000000000
+      internalID: -4134918895154316197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_78
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bd3603119648bb0800000000000000
+      internalID: -4934703769144009879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_79
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a293a7c3dafe5df0800000000000000
+      internalID: -189438346808552796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_80
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8931ba8b6e30570800000000000000
+      internalID: 8431836608186259639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_81
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6981a8708fbeab8c0800000000000000
+      internalID: -3982611469944874858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_82
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f3c8701b2ef78a0800000000000000
+      internalID: -6305071703331684494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_83
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455fbe150cba5d950800000000000000
+      internalID: 6473268881911444820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_84
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ec77c0585173340800000000000000
+      internalID: 4843363585444269700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_85
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778f278899262c850800000000000000
+      internalID: 6395782832378280055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_86
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc03c66728fd70ce0800000000000000
+      internalID: -1438935804496039732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_87
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee243726b787daee0800000000000000
+      internalID: -1248209050383727890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_88
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdac47da6e890d890800000000000000
+      internalID: -7435274868268676388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_89
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a49260a39e38b50800000000000000
+      internalID: 6594370714821282319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_90
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15ae6896b0a64810800000000000000
+      internalID: 1749262211381896476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_91
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e678992ae9a2a5450800000000000000
+      internalID: 6078217507911075694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_92
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7bc34e2c896b410800000000000000
+      internalID: 1492548289340159936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_93
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87db3c42c16399560800000000000000
+      internalID: 7320942163771243896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_94
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c4389e8ae641ba0800000000000000
+      internalID: -6119144321938404203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_95
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8358daf99f7c25cb0800000000000000
+      internalID: -4876615571549092552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_96
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f99738a450ef26d0800000000000000
+      internalID: -3012942971483481611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_97
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f175ec055aee78e0800000000000000
+      internalID: -1693658758835244559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_98
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f076a20affbf170800000000000000
+      internalID: 8213439408811478903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_99
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09ea142262f4ade0800000000000000
+      internalID: -1322665887213623026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_100
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c146d4bcfdfb630800000000000000
+      internalID: 3945117862869605417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_101
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a2094060299f080800000000000000
+      internalID: -9153124213109806551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_102
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b42a163deaaf1910800000000000000
+      internalID: 1810353511017882804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_103
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977c45e44fd966800800000000000000
+      internalID: 605344872539670393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_104
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1ec04330a9d0f30800000000000000
+      internalID: 4543456937635537340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_105
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c77147381ad05ed0800000000000000
+      internalID: -2427200401611589691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_106
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f57f59006f658730800000000000000
+      internalID: 4000726302253348341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_107
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44640e733155ccb20800000000000000
+      internalID: 3155990979910059588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_108
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e1b81f6ae12f7e0800000000000000
+      internalID: -1733289204218388942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_109
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c79f7ce6f488530800000000000000
+      internalID: 3857420418062842896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_110
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 123
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f41f525596a6db30800000000000000
+      internalID: 4311816853516129520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_111
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db721cecf99942990800000000000000
+      internalID: -7411630175097378883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_112
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce2e0a5ef67f8810800000000000000
+      internalID: 1769764013384543940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_113
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067d9a5a1ec98e3b0800000000000000
+      internalID: -5482960053362632864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_114
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bb9815d43238f10800000000000000
+      internalID: 2270697452112296848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_115
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4289dd0c445cc6bb0800000000000000
+      internalID: -4941357792048080860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_116
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2e3f854487f1440800000000000000
+      internalID: 4908774353802617522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_117
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9d330784b05b3a0800000000000000
+      internalID: -6650396868994672179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_118
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6783e97d23da32480800000000000000
+      internalID: -8925099602640750474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_119
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334cae012b8434020800000000000000
+      internalID: 2324781762278507571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_120
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64edf1b895f89be20800000000000000
+      internalID: 3366879811185139270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_121
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c769a7857c9cc30800000000000000
+      internalID: 4380251295422250037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_122
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fb3ed00cca321d0800000000000000
+      internalID: -3376665354731012280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_123
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1423c46e5df6dbd60800000000000000
+      internalID: 7907599485214929473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_124
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765d496a5b336bbd0800000000000000
+      internalID: -2614845678365125273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_125
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30577eb48f6ecc570800000000000000
+      internalID: 8488413351786280195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_126
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05858c11b1d7fd80800000000000000
+      internalID: -8216868436496251636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_127
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16eb258d575ae70b0800000000000000
+      internalID: -5728959750409634207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_128
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd811eb894b9c9f0800000000000000
+      internalID: -447628119829803570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_129
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0c9adaf8ead48c0800000000000000
+      internalID: -4013359760800104268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_130
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed426b54c2c8806e0800000000000000
+      internalID: -1871091523396426530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_131
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22585240f29542e0800000000000000
+      internalID: -2142144487141912020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_132
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7831c5c81fb98bbb0800000000000000
+      internalID: -4920011131157998713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_133
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34de3361e7186b3d0800000000000000
+      internalID: -3191220907407053501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_134
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054a3dd3117498900800000000000000
+      internalID: 687158557528007760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_135
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43758f48f1623650800000000000000
+      internalID: 6211134555211264843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_136
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2550a82f4e42badc0800000000000000
+      internalID: -3626764509176527534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_137
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89d625e8e3e57a20800000000000000
+      internalID: 3059602111284566415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_138
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7307650fbf6d780800000000000000
+      internalID: -8658456223912282162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_139
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c0101b71ab8ca20800000000000000
+      internalID: 3082918555851754594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_140
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb837f384a96325a0800000000000000
+      internalID: -6547273277956998977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_141
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6bd96c3c7f9ad10800000000000000
+      internalID: 2137511918386919085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_142
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498126bfe784b63a0800000000000000
+      internalID: -6671158712798668652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_143
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1b0ede70cd8ac90800000000000000
+      internalID: -7158229681091595807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_144
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee044f523c654df10800000000000000
+      internalID: 2293553506393800942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_145
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b74729c79f72770800000000000000
+      internalID: 8586105528033508126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_146
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0300461abb2dbf0800000000000000
+      internalID: -300971923238539101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_147
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 93
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dd42d1216baff00800000000000000
+      internalID: 1151432843661204740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_148
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b43eec333e43640800000000000000
+      internalID: 5058918093097749392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_149
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442bf39f00699f580800000000000000
+      internalID: -8792831866538315196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_150
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cea5f383776c990800000000000000
+      internalID: -7366069057053070248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_151
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19463c761e9e146f0800000000000000
+      internalID: -702022912575314799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_152
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c363372d004b2f120800000000000000
+      internalID: 2446215463239366204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_153
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7d6fd889942dbb0800000000000000
+      internalID: -4912783323942168651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_154
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b42002f92c13360800000000000000
+      internalID: 7147708072306297732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_155
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d7211f903b44a60800000000000000
+      internalID: 7657442121717284241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_156
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18985cd739b1b6d0800000000000000
+      internalID: -2976394229144053732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_157
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b882360e28c41e0800000000000000
+      internalID: -2212249416697869459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_158
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d573d57a3f3d1610800000000000000
+      internalID: 1593499363476469205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_159
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f2fedc255f45980800000000000000
+      internalID: -8550940056478601391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_160
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59634ef7e3c319200800000000000000
+      internalID: 184995298830202517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_161
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9dbdc0081247210800000000000000
+      internalID: 1329724623836404174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_162
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b12434efffb1570800000000000000
+      internalID: 8438619794323938121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03a1b09b42c4ae30800000000000000
+      internalID: 4513946356337976079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_164
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a58b2535cb7cc7b0800000000000000
+      internalID: -5202647382588947031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_165
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87ef0349a5859480800000000000000
+      internalID: -8893054927152093299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_166
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31472ba4fd1f72850800000000000000
+      internalID: 6352311740762584083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_167
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f74cf009e65dde0800000000000000
+      internalID: -1309018551662379220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_168
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d604874ad5466d0800000000000000
+      internalID: -2998168490948399718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_169
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3976615d6dba2f4b0800000000000000
+      internalID: -5408071263332178029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_170
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b67181b4550fc00800000000000000
+      internalID: 932338903880788744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_171
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de7e2f1275b27760800000000000000
+      internalID: 7454219835005632212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_172
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399fe38c186c19570800000000000000
+      internalID: 8471770634773264787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_173
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc292e29a1603ef60800000000000000
+      internalID: 8062294469126558415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_174
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40149191b7f6b36c0800000000000000
+      internalID: -4162610856081145596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_175
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6165c7127898f370800000000000000
+      internalID: 8356596724378460524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_176
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749998ad10d7566c0800000000000000
+      internalID: -4150774034637153977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_177
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a724fec5dcd2990800000000000000
+      internalID: -7409040012919801257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_178
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e217c001bb8c660800000000000000
+      internalID: 7406375264813395471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_179
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd7f2dd52803b150800000000000000
+      internalID: 5887058096621059506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_180
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468faca716ebc2770800000000000000
+      internalID: 8587447915369920612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_181
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e46d849bde8f03c0800000000000000
+      internalID: -4391134037921667872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_182
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba699d90f5a919ac0800000000000000
+      internalID: -3850126473447237973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_183
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3593b215c21e6e080800000000000000
+      internalID: -9158385211754727085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_184
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94e3faa8c16edd80800000000000000
+      internalID: -8224028355042483041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_185
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dd374696cc93520800000000000000
+      internalID: 2682399806104788348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_186
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ca859b18673c1f0800000000000000
+      internalID: -1025845990577886125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_187
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af88fca3ee813d930800000000000000
+      internalID: 4166701491715803386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_188
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f86085187069e60800000000000000
+      internalID: 7968564842787671898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_189
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eedcd9686d94b00800000000000000
+      internalID: 813417081378565692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_190
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7610cf9b458a62e0800000000000000
+      internalID: -2131744913757301123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_191
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74034d7e1ec0e1c0800000000000000
+      internalID: -4476351399260388230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_192
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3a340afd77aafe0800000000000000
+      internalID: -1176996550253763664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_193
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5072326be29985fc0800000000000000
+      internalID: -3505883884004628731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_194
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92b536db59f78be0800000000000000
+      internalID: -1474936180109364578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_195
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b04c22ca71346e0800000000000000
+      internalID: -1854612593461425360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_196
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f167a55a91ffd6a0800000000000000
+      internalID: -6422148898442747408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_197
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa1f657e0833f700800000000000000
+      internalID: 572863212357098227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_198
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda5d40ba2d221820800000000000000
+      internalID: 2887419972467645147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_199
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c798703b237c06640800000000000000
+      internalID: 5071272200985086332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_200
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adde38764a822d9c0800000000000000
+      internalID: -3904013240400351782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_201
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a2000c770dc9eb0800000000000000
+      internalID: -4711661897395459573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_202
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a1d05b4bde4e2f0800000000000000
+      internalID: -944368661453530569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_203
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469b9d8460c11fed0800000000000000
+      internalID: -2382091914584671900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_204
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d76b98c77d656f70800000000000000
+      internalID: 9179863776698787795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_205
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37b1fcbd12a58c60800000000000000
+      internalID: 7819834576606443325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_206
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad60afb238c25f290800000000000000
+      internalID: -7857325032987818278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_207
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f12cf90e59123eb0800000000000000
+      internalID: -4741699565982572043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_208
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b919c7beca44b740800000000000000
+      internalID: 5166836924207929781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_209
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf88db33ea7f9930800000000000000
+      internalID: 4152172497839099866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_210
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90cd41a516211c20800000000000000
+      internalID: 3175361086615306395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_211
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60fe66736a528f30800000000000000
+      internalID: 4576319554597089391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_212
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd7b42f7f343f400800000000000000
+      internalID: 356703527693417929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_213
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0ab10b47fe6a7f0800000000000000
+      internalID: -601530215757537053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_214
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c00043ca99c54cf0800000000000000
+      internalID: -268586936220778295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_215
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5a76725620b6ae0800000000000000
+      internalID: -1555146612850317859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_216
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbffd01eb329074e0800000000000000
+      internalID: -1985926649793871941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_217
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74018f6f44689acd0800000000000000
+      internalID: -2546356483541954489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_218
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d21c1b1e785c8d0800000000000000
+      internalID: -2826703787685499563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_219
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d959720056d6c49f0800000000000000
+      internalID: -482890779473767011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_220
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e71810517e1fa10800000000000000
+      internalID: 1941586991778987674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_221
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ff6a7f0eb3e4460800000000000000
+      internalID: 7227780289389854491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_222
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fda781f40a725e0800000000000000
+      internalID: -1934401253358772363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_223
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba2cf8c04c7f8670800000000000000
+      internalID: 8543183635836840639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_224
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cb486eb6ed7c280800000000000000
+      internalID: -9022998773403173816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_225
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486a7dad940a1c6a0800000000000000
+      internalID: -6430682553843734908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_226
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648ac50bd000be560800000000000000
+      internalID: 7343963676151162950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_227
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381ba744981b5d3c0800000000000000
+      internalID: -4335363863156706941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_228
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0087e85f2b60b80800000000000000
+      internalID: -8428852884850343762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_229
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdbb045168211170800000000000000
+      internalID: 8147337599376932274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_230
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af12dc8261beabf0800000000000000
+      internalID: -311116287414493274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_231
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7ed1c093a6e5ee0800000000000000
+      internalID: -1270461251622934541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_232
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e80bf1df65ffff0800000000000000
+      internalID: -185829818331623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_233
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85301fabfa937290800000000000000
+      internalID: -7893795316085803635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_234
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd42ff6600f870b40800000000000000
+      internalID: 5406447109572338907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_235
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744fc2c0f914a36e0800000000000000
+      internalID: -1857099744977030073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_236
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589ef1cf205f489e0800000000000000
+      internalID: -1619900572777846395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_237
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1eb6defb87e0d750800000000000000
+      internalID: 6327812064917503514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_238
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd40c32a6acb67170800000000000000
+      internalID: 8175929597410149595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_239
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550bc9f19371b7a80800000000000000
+      internalID: -8468149140229148587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_240
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c1b22c162205f20800000000000000
+      internalID: 3409262721184242700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_241
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c9a29e2e0303840800000000000000
+      internalID: 5201711320745548902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_242
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab634f15c624cba0800000000000000
+      internalID: -6069683769713661024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_243
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa022f060035ddd0800000000000000
+      internalID: -2462008818706281811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_244
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbda86c168a4fd3e0800000000000000
+      internalID: -2026819367430738497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_245
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf4b31e600b21470800000000000000
+      internalID: 8363941001575485382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_246
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba2ae0176b374620800000000000000
+      internalID: 2758238610639170232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_247
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ec36ec969a1c050800000000000000
+      internalID: 5819118465438699086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_248
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4099ba0b4bc23d850800000000000000
+      internalID: 6400508649993378052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_249
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6346fd58ea18db230800000000000000
+      internalID: 3656221059065013302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_250
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72045e3f36201ef20800000000000000
+      internalID: 3450041417859416103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_251
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db6d15d6f589e9a0800000000000000
+      internalID: -6203279716542223406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_252
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7529caff73d8c190800000000000000
+      internalID: -7941865396246076035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_253
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5c109b533b3f8c0800000000000000
+      internalID: -3966629803464735299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_254
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f64f45de33512c0800000000000000
+      internalID: -4461602761415037155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_255
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388ff9d08282d5ca0800000000000000
+      internalID: -6026616573859465085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_256
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85485cab12e534330800000000000000
+      internalID: 3693899618334377048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_257
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b006a4ea748ec7ec0800000000000000
+      internalID: -3567721410219843573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 52570 - copia_258
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 3
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a2359638958cc40800000000000000
+      internalID: 5532770563167300251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
